@@ -1,0 +1,39 @@
+Return-Path: <laurenrausch447@u.boisestate.edu>
+Received: from codespaces-0bc6cf.kzaeiipw03cevmatqokbdkujif.xx.internal.cloudapp.net ([20.94.220.136])
+        by smtp.gmail.com with ESMTPSA id gg18-20020a17090b0a1200b0029685873233sm603129pjb.45.2024.02.07.22.30.46
+        for <laurenrausch447@u.boisestate.edu>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Wed, 07 Feb 2024 22:30:47 -0800 (PST)
+From: Lauren Rausch <laurenrausch447@u.boisestate.edu>
+To: laurenrausch447@u.boisestate.edu
+Subject: [PATCH] Submit project
+Date: Thu,
+  8 Feb 2024 06:30:16 +0000
+Message-ID: <20240208063016.15784-1-laurenrausch447@u.boisestate.edu>
+X-Mailer: git-send-email 2.43.0
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+
+---
+ my-name.txt  | 1 +
+ the-date.txt | 1 +
+ 2 files changed, 2 insertions(+)
+ create mode 100644 my-name.txt
+ create mode 100644 the-date.txt
+
+diff --git a/my-name.txt b/my-name.txt
+new file mode 100644
+index 0000000..466fcc2
+--- /dev/null
++++ b/my-name.txt
+@@ -0,0 +1 @@
++Lauren Rausch
+diff --git a/the-date.txt b/the-date.txt
+new file mode 100644
+index 0000000..d636086
+--- /dev/null
++++ b/the-date.txt
+@@ -0,0 +1 @@
++Thu Feb  8 06:09:18 UTC 2024
+-- 
+2.43.0
